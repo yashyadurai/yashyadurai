@@ -3,6 +3,7 @@
   <p>Welcome to my corner of the internet 🌐</p>
   <p>I'm a <strong>Web Developer</strong> with a passion for crafting clean and user-friendly interfaces. Currently exploring the realms of <strong>Full Stack Development</strong>.</p>
   <p>When I'm not coding, you can find me exploring the latest tech trends, sipping coffee, or diving into a good book 📚</p>
+  <img src="https://komarev.com/ghpvc/?username=yashyadurai&color=red"/> 
 </div>
 
 <hr>
