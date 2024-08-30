@@ -12,7 +12,7 @@
   <h2>✨ Quick Facts About Me ✨</h2>
   <ul>
     <li>🚀 Learned HTML and CSS in just 14 days and started building projects</li>
-    <li>🧑‍💻 Mastered Kali Linux at the age of 14 😎</li>
+    <li>🧑‍💻 Using Kali Linux </li>
     <li>🌱 Currently leveling up my skills in JavaScript and backend technologies</li>
   </ul>
 </div>
