@@ -52,7 +52,7 @@
   <p>
     <a href="mailto:yashyadurai001@gmail.com">Email</a> •
     <a href="https://twitter.com/yashyadurai">Twitter</a> •
-    <a href="https://www.linkedin.com/in/yash-yadurai-a58591300/">LinkedIn</a> •
+    <a href="https://www.linkedin.com/in/yashyadurai">LinkedIn</a> •
     <a href="https://yashyadurai.github.io/My-Links/">More Links</a>
   </p>
 </div>
