@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>👋 Hey there, I'm Yash Yadurai! 👨‍💻</h1>
+  <h1>👋 Hey there, I'm Yash</h1>
   <p>Welcome to my corner of the internet 🌐</p>
-  <p>I'm a <strong>Web Developer</strong> with a passion for crafting clean and user-friendly interfaces. Currently exploring the realms of <strong>Full Stack Development</strong>.</p>
+  <p>I'm a <strong>Developer</strong> with a passion for crafting clean and user-friendly interfaces. Currently exploring the realms of <strong>Full Stack Development</strong>.</p>
   <p>When I'm not coding, you can find me exploring the latest tech trends, sipping coffee, or diving into a good book 📚</p>
   <img src="https://komarev.com/ghpvc/?username=yashyadurai&color=red"/> 
 </div>
@@ -11,9 +11,9 @@
 <div align="center">
   <h2>✨ Quick Facts About Me ✨</h2>
   <ul>
-    <li>🚀 Learned HTML and CSS in just 14 days and started building projects</li>
+    <li>🚀 I love Linux</li>
     <li>🧑‍💻 Using Kali Linux </li>
-    <li>🌱 Currently leveling up my skills in JavaScript and backend technologies</li>
+    <li>🌱 Currently leveling up my skills in frontend and backend technologies</li>
   </ul>
 </div>
 
@@ -23,11 +23,14 @@
   <h2>⚡️ Skills & Tools</h2>
   <p>Here are some of the tools and technologies I work with:</p>
   <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> -->
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss,linux,vite,nodejs,express,kali,sass,typescript,neovim,git" />
+    </a>
   </p>
 </div>
 
@@ -66,5 +69,5 @@
     <a href="https://github.com/yashyadurai"><img src="https://img.shields.io/github/followers/yashyadurai?style=social" alt="GitHub"></a>
     <a href="https://twitter.com/yashyadurai"><img src="https://img.shields.io/twitter/follow/yashyadurai?style=social" alt="Twitter"></a>
     <a href="https://linkedin.com/in/yashyadurai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  </p>
+  </p>  
 </div>
